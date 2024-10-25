@@ -81,7 +81,7 @@ export default function Quiz() {
       <Card className="animate-in fade-in-50">
         <CardHeader className="text-center">
           <CardTitle className="text-3xl font-bold">Quiz Results</CardTitle>
-          <CardDescription>Here's how you performed</CardDescription>
+          <CardDescription>Here&apos;s how you performed</CardDescription>
         </CardHeader>
         <CardContent className="space-y-6">
           <div className="flex justify-center">
